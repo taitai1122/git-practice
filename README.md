@@ -1,4 +1,1 @@
-hoge
-　　hogehogehogemaru
-hogemaruman
-hoge
+Taiki
