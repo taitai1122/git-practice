@@ -1,2 +1,4 @@
 hoge
 　　hogehogehogemaru
+hogemaruman
+hoge
